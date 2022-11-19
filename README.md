@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Beril.
 #### I am a Jr. Software Engineer.
 
-Skills: Java / Python / HTML / CSS 
+Skills: Java OOP / Spring Boot / PostgreSQL / Python 
 
-I am currently learning Flutter!
+I am currently studying on backend web development!
 
 
 
